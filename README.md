@@ -2,7 +2,7 @@
 
 ## Description
 
-- My goal in working on the code of this website was to change code to make it more accessible from a user standpoint, more readable from a devoloper standpoint and to rank higher in search engine results. This process involved learning how to make html elements more semantic, giving access to alts for images, therefore letting screen readers describe content easier to blind users, fixing elements to follow a more concise page structure, fixing broken links to make the page more dynamic and changing the title of the web page to be more descriptive. The work I did on this website also enabled me to practice good work flow and learn how to use proper git conventions.
+My goal in working on the code of this website was to change code to make it more accessible from a user standpoint, more readable from a devoloper standpoint and to rank higher in search engine results. This process involved learning how to make html elements more semantic, giving access to alts for images, therefore letting screen readers describe content easier to blind users, fixing elements to follow a more concise page structure, fixing broken links to make the page more dynamic and changing the title of the web page to be more descriptive. The work I did on this website also enabled me to practice good work flow and learn how to use proper git conventions.
 
 ## Installation
 
