@@ -8,6 +8,10 @@
 
 I created a new repo on github and pushed exisiting website html/css code to it. I then opened the code on vscode and began the process of adjusting code to make it more accessible to users, readable to developers and searchable for web browsers. 
 
+## Live Demo
+
+Live Demo Link - https://omer-weiss.github.io/Horiseon-V.2-Refactored/
+
 ## Usage
 
 ![Screenshot of title change](assets/images/descriptive-title.jpg)
@@ -21,8 +25,3 @@ In this screen shot code is shown that enables the search engine optimization li
 ![Screenshot of footer semantic element](assets/images/footer.jpg)
 
 In this screen shot code is shown that gave a div item at the bottom of the web page a more semantic title so that format, order, and readability of the pages html code improves. The div element was changed to a footer element instead.
-
-## Credits
-
-Omer Weiss
-Git Hub Profile Link - 
